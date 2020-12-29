@@ -31,3 +31,5 @@ pillow==7.1.0
 wget
 gym
 gym-super-mario-bros==7.3.0
+
+jupyterlab
